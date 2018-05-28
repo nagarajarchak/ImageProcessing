@@ -1,2 +1,3 @@
-# ImageProcessing
-An image processing resource repository.
+# Image Processing Resources
+
+1. http://flothesof.github.io/removing-background-scikit-image.html
